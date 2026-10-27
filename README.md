@@ -10,33 +10,33 @@
 <h2 align="center">💗 Hello, I'm Kawin 💗</h2>
 
 <p align="center">
-  🎀 Information Technology Student 🎀
-  <br>
-  🌸 Singburi Technical College 🌸
-  <br>
+  🎀 Information Technology Student 🎀<br>
+  🌸 Singburi Technical College 🌸<br>
   💻 Learning Web Development
-  <br>
-  🎮 Hobby: Playing Games
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=22&duration=3000&pause=1000&color=E879AC&center=true&vCenter=true&width=450&lines=Hello%2C+Welcome+to+my+profile!;Learning+something+new+every+day;Keep+coding+and+keep+growing+%F0%9F%8C%B7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=22&duration=3000&pause=1000&color=E879AC&center=true&vCenter=true&width=450&lines=Hello%2C+Welcome+to+my+profile!;Learning+something+new+every+day;Keep+coding+and+keep+growing" />
 </p>
 
 ---
 
-## 🎀 About Me
+<h2 align="center">🎀 About Me 🎀</h2>
 
-- 🌷 **Name:** Kawinthida Thongchoi
-- 💕 **Nickname:** Kawin
-- 🏫 **College:** Singburi Technical College
-- 💻 **Major:** Information Technology
-- 🎮 **Hobby:** Playing games
-- 🌱 **Currently learning:** Web Development
+<p align="center">
+  🌷 Name: Kawinthida Thongchoi<br>
+  💗 Nickname: Kawin<br>
+  🏫 College: Singburi Technical College<br>
+  💻 Major: Information Technology<br>
+  🎮 Hobby: Playing games<br>
+  🌱 Currently Learning: Web Development
+</p>
+
+<p align="center">🌸 ─── ⋆｡˚ 💕 ˚｡⋆ ─── 🌸</p>
 
 ---
 
-## 🧁 My Skills
+<h2 align="center">🧁 My Skills 🧁</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,python,mysql,git,github,vscode&theme=light" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌸 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawinthida0907-star&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
@@ -57,15 +57,14 @@
 
 ---
 
-## 🌈 My Motto
+<h2 align="center">🌈 My Little Motto 🌈</h2>
 
 <p align="center">
   <i>“Never stop learning, because life never stops teaching.”</i> 🌷
 </p>
 
 <p align="center">
-  💖 Thank you for visiting my profile! 💖
-  <br>
+  💖 Thank you for visiting my profile! 💖<br>
   🌸 Made with love by Kawin 🌸
 </p>
 
